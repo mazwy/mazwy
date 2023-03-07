@@ -1,4 +1,4 @@
-### <div align="center">Hi, I'm Maciej, a Computer Science student at PJAIT in Warsaw 👨‍💻</div>  
+### <div align="center">2nd year CS student @PJAIT / cybersecurity intern / washed up valo noob 💻</div> 
   
 
 <br/>  

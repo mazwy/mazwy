@@ -1,6 +1,6 @@
 ### <div align="center">2nd year CS student @PJAIT / cybersecurity intern / washed up valo noob 💻</div> 
   
-
+<div align=right><font size=0.5> pls hire me </font></div>
 <br/>  
 
 
@@ -45,4 +45,4 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center"><font size=0.5>Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</font></a></div>

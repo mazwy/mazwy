@@ -1,4 +1,4 @@
-### <div align="center">2nd year CS student @PJAIT / security intern / washed up valo noob</div> 
+### <div align="center"> huh </div> 
   
 <div align=right><font size=0.5> pls hire me </font></div>
 <br/>  

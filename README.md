@@ -14,6 +14,6 @@
 <img src="https://komarev.com/ghpvc/?username=mazwy&&style=flat-square" align="center" />
 </div>  
 
-<div align=right><font size=0.5> pls hire me </font></div>
+<div align=right><font size=0.5> </font></div>
 
 <br/>
